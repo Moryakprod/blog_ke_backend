@@ -2,7 +2,7 @@
 
 FROM python:3.8-slim-buster AS basic
 
-WORKDIR /backend
+WORKDIR /blog_ke_backend
 
 COPY requirements.txt requirements.txt
 RUN pip3 install -r requirements.txt
