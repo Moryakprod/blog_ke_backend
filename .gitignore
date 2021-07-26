@@ -1,0 +1,7 @@
+.env
+media
+static
+venv
+build
+blog_ke/__pycache__/
+blog/__pycache__/
